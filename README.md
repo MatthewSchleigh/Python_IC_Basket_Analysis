@@ -1,13 +1,13 @@
 # Python_IC_Basket_Analysis
-## Python codes for Instacart Basket Analysis
-## CareerFoundry Data Analytics Course
+## Instacart Basket Analysis
+Instacart is an online delivery service for groceries and other consumables. This project was developed through the **CareerFoundry Data Analytics course**.
 
-### Objective
-*Perform exploratory analysis to derive insights and offer strategies for consumer engagement*
+## Objective
+Instacart aims to provide a better experience for their users. I'm tasked to perform an exploratory analysis to derive insights and offer strategies for consumer engagement, particularly those whom the company deems are loyal to the brand.
 
-### Tools:
-*Python*
+## Tools:
+pandas - for data analysis
+seaborn - for visualizations
 
-### Data:
-#### *Instacart provides their data free, provided proper citation*
-[Find the dataset here](https://www.instacart.com/datasets/grocery-shopping-2017)
+## Data:
+Find Instacart's dataset [here](https://www.instacart.com/datasets/grocery-shopping-2017)
