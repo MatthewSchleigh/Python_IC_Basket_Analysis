@@ -12,3 +12,5 @@ Python libraries used:
 
 ## Data:
 Find Instacart's dataset [here](https://www.instacart.com/datasets/grocery-shopping-2017)
+
+## To view Python scripts, click on the following links
